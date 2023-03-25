@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-29T21:36:26 IST" name="Default suite" finished-at="2022-12-29T21:37:23 IST" duration-ms="56281">
+    <groups>
+    </groups>
+    <test started-at="2022-12-29T21:36:26 IST" name="Default test" finished-at="2022-12-29T21:37:23 IST" duration-ms="56281">
+      <class name="automation.selenium.examples.browser.commands.FileUpload">
+        <test-method is-config="true" signature="setup()[pri:0, instance:automation.selenium.examples.browser.commands.FileUpload@6e20b53a]" started-at="2022-12-29T21:36:26 IST" name="setup" finished-at="2022-12-29T21:37:11 IST" duration-ms="44251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FileUploaded()[pri:0, instance:automation.selenium.examples.browser.commands.FileUpload@6e20b53a]" started-at="2022-12-29T21:37:11 IST" name="FileUploaded" finished-at="2022-12-29T21:37:23 IST" duration-ms="11979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FileUploaded -->
+      </class> <!-- automation.selenium.examples.browser.commands.FileUpload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
